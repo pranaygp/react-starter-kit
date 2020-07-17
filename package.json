@@ -13,7 +13,7 @@
     "express": "4.15.3",
     "fastclick": "1.0.6",
     "fbjs": "0.7.0",
-    "front-matter": "2.0.5",
+    "front-matter": "4.0.1",
     "history": "2.0.0-rc2",
     "isomorphic-style-loader": "0.0.8",
     "jade": "1.11.0",
