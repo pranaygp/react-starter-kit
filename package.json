@@ -12,7 +12,7 @@
     "eventemitter3": "1.1.1",
     "express": "4.15.3",
     "fastclick": "1.0.6",
-    "fbjs": "0.7.0",
+    "fbjs": "2.0.0",
     "front-matter": "2.0.5",
     "history": "2.0.0-rc2",
     "isomorphic-style-loader": "0.0.8",
